@@ -49,7 +49,7 @@ To execute the attack and testing our countermeasure, start by cloning the repos
 git clone https://github.com/Mhackiori/RedactBuster.git
 cd RedactBuster
 ```
-<sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work. The dataset should be downloaded [here](https://figshare.com/s/594107d662643b21dbf2) and unzipped in the folder directory.</sup>
+<sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work. The dataset should be downloaded [here](https://figshare.com/s/594107d662643b21dbf2) and unzipped in the dataset directory.</sup>
 
 Then, install the required Python packages by running:
 
