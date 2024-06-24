@@ -14,7 +14,15 @@
     <a href="https://arxiv.org/abs/2404.12991"><strong>Preprint Available »</strong></a>
     <br />
     <br />
-    <a href="">Anonymous Authors</a>
+    <a>Mirco Beltrame</a>
+    ·
+    <a href="https://www.math.unipd.it/~conti/">Mauro Conti</a>
+    ·
+    <a>Pierpaolo Guglielmin</a>
+    ·
+    <a href="https://www.math.unipd.it/~fmarchio/">Francesco Marchiori</a>
+    ·
+    <a href="https://www.math.unipd.it/~orazi/">Gabriele Orazi</a>
   </p>
 </div>
 
