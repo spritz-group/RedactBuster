@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Mhackiori/RedactBuster">
+  <a href="https://github.com/spritz-group/RedactBuster">
     <img src="https://i.postimg.cc/qq2hX7xt/Redact-Buster.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -11,7 +11,7 @@
   <p align="center">
      Entity Type Recognition from Redacted Documents
     <br />
-    <a href="https://github.com/Mhackiori/RedactBuster"><strong>Paper in progress »</strong></a>
+    <a href="https://arxiv.org/abs/2404.12991"><strong>Preprint Available »</strong></a>
     <br />
     <br />
     <a href="">Anonymous Authors</a>
@@ -46,10 +46,9 @@
 To execute the attack and testing our countermeasure, start by cloning the repository:
 
 ```bash
-git clone https://github.com/Mhackiori/RedactBuster.git
+git clone https://github.com/spritz-group/RedactBuster.git
 cd RedactBuster
 ```
-<sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work. The dataset should be downloaded [here](https://figshare.com/s/594107d662643b21dbf2) and unzipped in the dataset directory.</sup>
 
 Then, install the required Python packages by running:
 
@@ -57,6 +56,6 @@ Then, install the required Python packages by running:
 pip install -r requirements.txt
 ```
 
-While you can add the original ECHR dataset and process it through our scripts, you can also find the processed dataset in the zip file in the [dataset](https://github.com/Mhackiori/RedactBuster/tree/main/dataset) folder.
+While you can add the original ECHR dataset and process it through our scripts, you can also find the processed dataset in the zip file in the [dataset](https://github.com/spritz-group/RedactBuster/tree/main/dataset) folder.
 
 <p align="right"><a href="#top">(back to top)</a></p>
